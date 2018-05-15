@@ -1,8 +1,8 @@
 # Citizen Services: Open311 API Console App
 
-This project contains sample code to demonstrate the usage of AvePoint Citizen Services API to query and create service requests. The API is compitabile with Open311 [GeoReport v2](http://wiki.open311.org/GeoReport_v2/) API protocol standards.
+This project contains sample code to demonstrate the usage of AvePoint Citizen Services API to query and create service requests. The API is compatible with Open311 [GeoReport v2](http://wiki.open311.org/GeoReport_v2/) API protocol standards.
 
-The code is writtent in C# and run in .Net core framework. To build the code you must have .Net core SDK installed. Instructions to install .Net core SDK can be found on  the Microsoft [.Net core download](https://www.microsoft.com/net/download/core) site.  
+The code is written in C# and run in .Net core framework. To build the code you must have .Net core SDK installed. Instructions to install .Net core SDK can be found on  the Microsoft [.Net core download](https://www.microsoft.com/net/download/core) site.  
 
 ##Getting Start
 
